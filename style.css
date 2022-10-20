@@ -1,0 +1,30 @@
+.brand{
+    font-size: 20px;
+    font-weight: bold;
+}
+.makeUpName{
+    font-style: italic;
+    font-size: 13px;
+}
+.container a {
+    text-decoration: none;
+    color: black;
+}
+.brandName{
+    text-transform: capitalize;
+
+}
+.background {
+    background-color: rgb(215, 207, 208);
+}
+.img{
+    border-radius: 20%;
+    max-width:158px;
+    max-height: 184px;
+    padding-top: 10px;
+   
+
+}
+.price{
+    font-size: 16px;
+}
